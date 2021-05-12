@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+
+<nav> 
+<ul>
+<li>
+<a href="/">Home</a>
+
+<head>
+<title>Fake News</title>
+</head>
+
+<body>
+
+<h1>Fake News Now days</h1>
+<p>
+
+</body>
+</html>

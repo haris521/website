@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fake News</title>
+</head>
+<body>
+<header>
+<img src="logo1.png"/>
+</header>
+<nav>
+    <a href="home.html">Home</a>
+    <a href="most interesting.html">Most Interesting</a>
+    <a href="contact us.html">Contact Us</a>
+</nav>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fake News</title>
+</head>
+<body>
+<header>
+<img src="logo1.png"/>
+</header>
+<nav>
+    <a href="home.html">Home</a>
+    <a href="most interesting.html">Most Interesting</a>
+    <a href="contact us.html">Contact Us</a>
+</nav>
+<p> not sure what you beleive or not look no further we are very up to date with our news adn only showing you the real and exposing the fake</p>
+<p> we are a small group based on the A5 in northwest london, for legal reasons i can not state exactly were.</p>
+<p>If you would like to upload or conatct us about any thing or give us any suggestions on how to improve the site call the number below</p>
+<p>07443819948</p>
+</body>
